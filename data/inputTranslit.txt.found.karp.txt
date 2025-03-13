@@ -1,0 +1,3 @@
+Output search results for Karp search (500 lines) 
+perfomance:100000 lines per second
+9.6905339769 Mark Gremo Marie PSC_9727,_Box_9735|APO_AP_36285

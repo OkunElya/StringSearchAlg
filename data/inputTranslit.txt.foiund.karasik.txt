@@ -1,0 +1,3 @@
+Output search results for Aho search (500 lines) 
+100000 lines per second
+1.4008383880 Luz Burse Jesse USNV_Scott|FPO_AP_00948
