@@ -60,10 +60,10 @@ int main(){
     size_t searchLineCount=500;
 
     std::vector<size_t> occCountKarp={1,1,1,1,1};
-    std::vector<std::string> patternsKarp={"9","M","Grem","Mar","PSC"};
+    std::vector<std::string> patternsKarp={"0","Luz","Burse","Jesse","FPO"};
 
     std::vector<size_t> occCountKarasik={1,1,1,1,1,1};
-    std::vector<std::vector<std::string>> patternsKarasik={{"4","9"},{"Ra","Luz"},{"Burse","Grem"},{"J","Arthur"},{"LA","FPO"}};
+    std::vector<std::vector<std::string>> patternsKarasik={{"0"},{"Luz"},{"Burse"},{"Jesse"},{"FPO"}};
 
     std::vector<std::string> inpData;
     std::vector<std::vector<std::string>> inpSplitted;

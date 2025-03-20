@@ -38,7 +38,13 @@ namespace alg
             windowHash -= (int)inp[i];
             windowHash += (int)inp[i + pattern.length()];
         }
-
+        if (windowHash == patternHash)
+        {
+            if (pattern == inp.substr(inpLen-pattern.length(), pattern.length()))
+            {
+                output.push_back(0);
+            }
+        }
         return output;
     }
 }
